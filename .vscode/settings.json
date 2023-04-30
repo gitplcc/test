@@ -1,0 +1,8 @@
+{
+    "licenser.author": "Pedro Luis Castedo Cepeda",
+    "licenser.projectName": "test",
+    "cmake.configureArgs": [
+        "-DPKG_CONFIG_EXECUTABLE=/usr/bin/arm-linux-gnueabihf-pkg-config"
+    ],
+    "C_Cpp.errorSquiggles": "enabled"
+}
